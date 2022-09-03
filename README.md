@@ -11,4 +11,5 @@ Understanding the policies and rules in place for the university employees' moto
 - Modeling a relational databse model using the E-R model.
 - Building information model in Datalog and Protege
 
+### E-R Model
 ![E-R Model](https://github.com/harshbaberwal21/Information-Modeling/blob/main/group12-ph2-eer.svg)

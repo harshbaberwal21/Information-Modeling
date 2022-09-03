@@ -4,7 +4,7 @@
 Academic Project
 
 ## Intention
-Understanding the policies and rules in place for the university employees' motor pool system and modeling information systems for it.
+Understanding the policies and rules in place for the university employees' motor pool system and modeling information systems for it to manage the service.
 
 ## Methods
 - Building an entity-relationship model.
